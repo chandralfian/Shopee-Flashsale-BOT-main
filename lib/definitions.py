@@ -45,7 +45,7 @@ def writeFileJson(obj, file):
 def headerOutput(autoCheckout, autoOrder, chromedriver, session, urlTarget, options=[], justTitle=True):
     string = f'''
 {Fore.LIGHTBLACK_EX}==========================================================
-#          {Fore.RED}Shopee Flashsale BOT {Fore.LIGHTBLACK_EX}- {Fore.WHITE}By CHANCHAN24        {Fore.LIGHTBLACK_EX}#
+#          {Fore.RED}Shopee Flashsale BOT {Fore.LIGHTBLACK_EX}- {Fore.WHITE}By CHANCHAN24         {Fore.LIGHTBLACK_EX}#
 # ====================================================== #
 '''
     if not justTitle:
